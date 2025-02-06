@@ -9,7 +9,7 @@ A personal website project that showcases my skills, creativity, and passion for
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Welcome to my first blog post using the WordPress Block Editor!. Hello and welcome to CPRenjoy!, I'm Santiago, CEO and Founder, a passionate Software Development with a flair for creativity and a deep appreciation for cultural diversity. I'm thrilled to embark on this journey of sharing my thoughts, ideas and stories with you. Every journey starts with a single step, and I hope that this blog becomes a source of inspiration, knowledge, and connection for all my readers. Let's dive in together and explore the endless possibilities that lie ahead!</p>
+<p>Welcome to my first blog post using the WordPress Block Editor!. Hello and welcome to CPRenjoy!, I'm Santiago, CEO and Founder, a passionate student Software Development with a flair for creativity and a deep appreciation for cultural diversity. I'm thrilled to embark on this journey of sharing my thoughts, ideas and stories with you. Every journey starts with a single step, and I hope that this blog becomes a source of inspiration, knowledge, and connection for all my readers. Let's dive in together and explore the endless possibilities that lie ahead!</p>
 <!-- wp:paragraph -->
 
 <!--wp:image {"id":70,"width":"645px","height":"auto":"sizeSlug":large","linkDestination":"none"} -->
