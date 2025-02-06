@@ -22,3 +22,6 @@ w=600" alt="" class=wp-image-70" style="width:645px;height:auto" /></figure>
 <figure class="wp-block-image size-large is-resized"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000154.jpg?
 w=600" alt="" class="wp-image-86" style="width:389px;height:auto" /></figure>
 <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>In 1994, Cuban people demonstrated incredible resilience as they built large rafts with the help of their townspeople. The community would come together to carry these big rafts to the coast, showcasing their unity and determination in the face of challenging circumstances. My fascination with rafts started in my early years. Inspired by the tales of the Cuban Exodus of 1994
