@@ -45,4 +45,67 @@ w=361" alt="" class="wp-image-149" /></figure>
 <p>At 17, I had come with the belief that we were there to help the Angolan people, but those hopes were shattered when I realized they didn't want us there. We often trekked through the jungle, exchanging canned food for hot meals with the local community. They told us their food was intended for the other soldiers, particularly those from UNITA and the South African Army. I confided in my friend Ramon that we were fighting the wrong war. Many of my friends lost their lives, and the realization set in that we were unwanted defenders, paid only 7 Cuban pesos, while Castro earned $25,000 for every soldier sent. One day I decided to escape and cross the border between Angola and Namibia. Ramon warned me of the dire consequences if I got caught, but determined, I set out through the jungle. I encountered lions, tigers, elephants, and other dangerous creatures. After hours of wandering, I got lost and was eventually found by a Cuban truck before I could reach the border, I claimed I was lost after using the bathroom, and they returned me to the camp. I had tried my best. A few months later, I took a cadet course for military school in Cuba, hoping for a chance to return home.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph --
+<!-- wp:paragraph -->
+<p>After passing the test, I was flown back to Cuba and straight to the academy. I longed to see my family, but my plan was to escape from the academy. I seized the first opportunity, ran away, and hitchhiked home. My mother was overjoyed, knowing so many Cuban mothers had lost their children in the war. I shared my story, and she fought for my freedom, ultimately securing my release after three months in military prison. However, my inferno was just beginning. Life become unbearable as they refused to give me a job, and I was repeatedly arrested without cause.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">My Oceanic Adventure </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Determined, I built my own raft, plotting my escape. After observing the beach security, I made my move, but was caught, beaten, and interrogated, accused of being an American spy, Twelve days of torture later, I was imprisoned for three years. Upon release, The Cuban Exodus began. I constructed another raft with the help of four friends, gathering a gallon of water and 12 rolls of bread. We had little food, believing the US Coast Guard would rescue us 13 miles from Cuba 🇨🇺, but it wasn't. We were adrift for three days, without food or water by the first day. We rescued a Cuban man who had been in the ocean for two weeks; he had lost all eight companions.We encountered sharks 🦈, dolphins 🐬, whales 🐋,and various ocean creatures. Tropical storms battered us,and we tied ourselves to the raft to avoid being swept away. A shark 🦈 followed us for a long time, adding to our fear. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Sharks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":131,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000159-4.png?
+w-665" alt="" class="wp-image-131" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":129,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000157-4.png?
+w=665" alt="" class="wp-image-129" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Dolphins </h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":132,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000163-3.webp?
+w=768" alt="" class="wp-image-132" /></figure>
+<!-- /wp:image -->
+
+<!--wp:heading -->
+<h2 class=wp-block-heading">Wales </h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":134,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000161-.webp?
+w=606" alt="" class="wp-image-134" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By the morning of the third day, hunger and the harsh conditions were overwhelming. Exhausted, I fell asleep, only to be awakened by the sound of a horn. It was the US Coast Guard, and seeing the United States of America 🇺🇸, we screamed in relief.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">US Coast Guard </h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":135,"sizeSlug":"large":,"linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000166.jpg?
+w=474" alt="" class="wp:image-135" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000173.jpg?
+w=474" alt="" class="wp:image-137" /></figure>
+<!-- /wp:image -->
+
+
+
