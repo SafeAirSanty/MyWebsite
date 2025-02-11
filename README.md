@@ -30,7 +30,7 @@ w=?600" alt="" class="wp-image-86" style="width:389px;height:auto" /></figure>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2> class="wp-block-heading">Personal Story</h2>
+<h2> class="wp-block-heading">Personal Story </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
