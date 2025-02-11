@@ -7,6 +7,10 @@ A personal website project that showcases my skills, creativity, and passion for
 =======
 # My First Blog Post 
 
+<!-- wp:image {"id":302,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/728a5b96-a29b-4042-a456-3a13318b3071-1_all_11-2.jpg?w=256" alt="" class="wp-image-302"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Cuban looking for Freedom</h2>
 <!-- /wp:heading -->
