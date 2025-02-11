@@ -303,7 +303,7 @@ alt="" class="wp-wp-image-wp-image-131" /></figure>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>© 2025 Santiago Sergio Sola-Morales. All rights reserved.</p>
+<p>© 2025 Santiago S. Sola-Morales. All rights reserved.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":284,"width":"148px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
