@@ -153,7 +153,7 @@ alt="" class="wp-wp-image-wp-image-131" /></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">AI-AI-SANTY_PROJECT </h2>
+<h2 class="wp-block-heading">AI-SANTY_PROJECT </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
