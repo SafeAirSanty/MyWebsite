@@ -158,6 +158,170 @@ alt="" class="wp-wp-image-wp-image-131" /></figure>
 
 <!-- wp:paragraph -->
 <p>AI-SPHI represents the future of maritime search and rescue ooperations. This advanced,   AI-powered rescue vessel is equipped with cutting-edge technolog, setting it apart from traditional ships. Design to detect humans body from miles away, the AI-SHIPS also features rapid-responds, helicopters and fast boats, ensuring swift and efficient rescues. state-of-the-art capabilities, AI-SHIP is redefining the standards of safety and rescue at sea.</p>
+<!-- /wp:paragraph-->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>AI-SHIP Technologies:</strong></p>
 <!-- /wp:paragraph -->
 
->>>>>>> b4565cc9e73cd06082681e3692sta
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>AI Detection System:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Human Body Detection:</strong> Advanced AI algorithms can identify human bodies from miles away, even under challenging weather conditions. The system continuously scans the environment, providing real-time updates and significantly improving the chances of locating survivors quickly.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Rapid-Response Units:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Helicopters:</strong> AI-SHIP is equipped with rapid-response helicopters that can be deployed within minutes. These helicopters have advanced navigation systems and are capable of reaching difficult-to-access areas.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Fast Boats:</strong> The ship also includes fast boats designed for high-speed operations. These boats are ideal for quick retrieval of individuals from the water, ensuring minimal time lost during rescue missions.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Autonomous Navigation:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>AI-Powered Navigation:</strong> The ship uses AI-powered navigation to optimize routes, avoid obstacles, and ensure the fastest possible arrival at the rescue site. The system can adapt to changing conditions, making real-time decisions to enhance efficiency and safety.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Communication Systems:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Advanced Communication Network:</strong> AI-SHIP features a state-of-the-art communication network, allowing seamless coordination between the ship, helicopters, and fast boats. This ensures all units work in harmony, maximizing the effectiveness of rescue operations.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>AI-SHIP Features:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Automated Medical Assistance:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The ship is equipped with automated medical facilities that provide immediate care to rescued individuals. AI-powered diagnostics and treatment systems ensure that necessary medical assistance is administered promptly.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Sustainable Energy:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>AI-SHIP uses sustainable energy sources, including solar and wind power, to minimize its environmental impact. This commitment to sustainability ensures that rescue operations do not come at the cost of harming the marine ecosystem.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Emergency Supplies:</strong></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The ship carries a large stock of emergency supplies, including food, water, blankets, and medical kits. These are distributed as soon as survivors are brought onboard, addressing their immediate needs.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>AI-SHIP in Action:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Rescue Missions:</strong> Whether it's a large-scale disaster or an individual in distress, AI-SHIP is always ready to respond. The AI detection system alerts the crew, who then deploy the rapid-response units to the rescue site.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Training and Drills:</strong> Regular training sessions and drills are conducted to ensure that the crew and the AI systems are always prepared. These exercises simulate various rescue scenarios, enhancing the efficiency and readiness of the team.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Community and Outreach:</strong> AI-SHIP also engages in community outreach programs, raising awareness about maritime safety and educating people on what to do in emergencies. The ship serves as a beacon of hope, not just during rescues but also through its proactive efforts to prevent maritime disasters.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Closing:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">The AI-SHIP is revolutionizing the world of maritime rescues, leveraging cutting-edge technology to save lives and promote safety at sea. Its advanced capabilities, from AI-powered detection systems to rapid-response units, set it apart as the future of rescue operations. Join us in celebrating this remarkable innovation and the promise it holds for safer seas and more effective rescues.</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>© 2025 Santiago Sergio Sola-Morales. All rights reserved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":284,"width":"148px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000208.png?w=450" alt="" class="wp-image-284" style="width:148px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"tagName":"aside","align":"full","className":"is-style-section-3","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"dimensions":{"minHeight":""}},"layout":{"type":"constrained","contentSize":"800px"}} -->
+<aside class="wp-block-group alignfull is-style-section-3" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"dimensions":{"minHeight":"360px"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
+<div class="wp-block-group" style="min-height:360px;margin-top:0;margin-bottom:0"><!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size">Sign up to get daily stories</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></aside>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer-columns","theme":"pub/twentytwentyfive"} /-->
