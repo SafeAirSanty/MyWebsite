@@ -16,7 +16,7 @@ A personal website project that showcases my skills, creativity, and passion for
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":70,"width":"645px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000152.jpg?
+<figure class="wp-block-image size-large is-resized"><img src="https://aisantyproject.wordpress.com/wp-content/uploads/2025/01/1000000154.jpg?
 w=600" alt="" class="wp-image-70" style="width:645px;height:auto" /></figure>
 <!-- /wp:image -->
 
