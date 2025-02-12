@@ -12,7 +12,7 @@ A personal website project that showcases my skills, creativity, and passion for
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Hi there! I'm Santiago, a passionate storyteller and adventurer. Whether it's constructing a raft from an inner tube or delving into the latest web development technologies, I find joy in both creation and exploration. My journey is fueled by curiosity, and I'm always eager to learn new things and share them with others. When I'm not blogging, you can find me working on innovative projects, exploring nature, or connecting with fellow enthusiasts who share my love for creativity and discovery</p>
+<p>Hi there! a passionate storyteller and adventurer. Whether it's constructing a raft from an inner tube or delving into the latest web development technologies, I find joy in both creation and exploration. My journey is fueled by curiosity, and I'm always eager to learn new things and share them with others. When I'm not blogging, you can find me working on innovative projects, exploring nature, or connecting with fellow enthusiasts who share my love for creativity and discovery</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
