@@ -12,6 +12,10 @@ A personal website project that showcases my skills, creativity, and passion for
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
+<p>Hi there! I'm Santiago, a passionate storyteller and adventurer. Whether it's constructing a raft from an inner tube or delving into the latest web development technologies, I find joy in both creation and exploration. My journey is fueled by curiosity, and I'm always eager to learn new things and share them with others. When I'm not blogging, you can find me working on innovative projects, exploring nature, or connecting with fellow enthusiasts who share my love for creativity and discovery</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Welcome to my first blog post using the WordPress Block Editor!. Hello and welcome to CPRenjoy!, I'm Santiago, CEO and Founder, a passionate student Software Development with a flair for creativity and a deep appreciation for cultural diversity. I'm thrilled to embark on this journey of sharing my thoughts, ideas and stories with you. Every journey starts with a single step, and I hope that this blog becomes a source of inspiration, knowledge, and connection for all my readers. Let's dive in together and explore the endless possibilities that lie ahead!</p>
 <!-- /wp:paragraph -->
 
